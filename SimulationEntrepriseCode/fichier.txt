@@ -1,0 +1,5 @@
+<1> lot <Bois> <35.0> <20.0> <4>
+<2> lot <Vis> <45> <10> <2>
+<3> lot <Bois> <35> <20> <5>
+<4> lot <Vis> <45> <10> <4>
+<5> meuble <Table> <Salon> <2> <Vis> <3> <Bois> <7>
